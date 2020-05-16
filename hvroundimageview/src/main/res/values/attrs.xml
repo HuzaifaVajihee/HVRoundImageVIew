@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HexagonImageVIew">
+        <attr name="cornerRadius" format="string" />
+        <attr name="topLeftCorner" format="boolean" />
+        <attr name="topRightCorner" format="boolean" />
+        <attr name="bottomLeftCorner" format="boolean" />
+        <attr name="bottomRightCorner" format="boolean" />
+    </declare-styleable>
+</resources>
