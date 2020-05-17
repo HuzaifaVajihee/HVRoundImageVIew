@@ -1,3 +1,3 @@
 rootProject.name='RoundImageView'
 include ':app'
-include ':hvroundimageview'
+include ':hvimageview'

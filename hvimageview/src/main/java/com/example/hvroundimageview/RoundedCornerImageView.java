@@ -56,6 +56,11 @@ public class RoundedCornerImageView extends AppCompatImageView {
         Boolean bottomLeft = typedArray.getBoolean(index3,true);
         Boolean bottomRight = typedArray.getBoolean(index4,true);
 
+        if (cornerR == null)
+        {
+            cornerR = "0";
+        }
+
         cornerRadius = Float.parseFloat((String) cornerR);
         topLeftCorner = topLeft;
         topRightCorner = topRight;

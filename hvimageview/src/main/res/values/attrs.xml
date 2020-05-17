@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <declare-styleable name="HexagonImageVIew">
+    <declare-styleable name="RoundedCornerImageView">
         <attr name="cornerRadius" format="string" />
         <attr name="topLeftCorner" format="boolean" />
         <attr name="topRightCorner" format="boolean" />
