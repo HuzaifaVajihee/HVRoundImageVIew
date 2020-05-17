@@ -1,4 +1,4 @@
-package com.example.hvroundimageview;
+package com.example.hvimageview;
 
 import org.junit.Test;
 
